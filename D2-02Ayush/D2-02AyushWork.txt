@@ -1,0 +1,8 @@
+1. Demo1 - Detected faces,eyes,mouth using multiple haar cascades simultaneously.
+
+2. Demo2 - Experiment with hiding face part or whole face using a paper.
+
+3. Demo3 - Profile face detection using haar and lbp cascades simultaneously.
+
+4. Demo4 - Profile face can only be detected for persons looking towards their right.
+	   So for images where person is looking to his left, I flipped the image and shifted the reactangles for such frames.
