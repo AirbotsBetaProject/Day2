@@ -1,0 +1,7 @@
+Day_02
+
+work done-:
+1)Capture frames from a video and make binary histogram
+2) Create haarcascade and detect frontal face and eyes mouth and profile face
+
+
