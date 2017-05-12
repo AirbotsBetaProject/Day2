@@ -1,0 +1,3 @@
+Reading and display from webcam and plotting histograms for the frames
+
+detecting the front face,Left side face,eyes and mouth using haar-casacade 
