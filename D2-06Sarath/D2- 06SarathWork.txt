@@ -1,0 +1,3 @@
+1. Done with Web cam reading i.e. Video capturing.
+2. Extracted gray images from the Video captured.
+3. Plotted histrograms for those Captures. 
