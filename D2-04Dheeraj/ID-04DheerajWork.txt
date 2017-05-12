@@ -1,0 +1,4 @@
+DAY--2
+-live histogram data rom web cam
+- frontal face detection
+-eyes and mouth detection
