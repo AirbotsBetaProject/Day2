@@ -1,0 +1,3 @@
+Web cam reading and display in color and gary
+Detect the face[front,left] using haar-cascade
+Detect Eyes using haar-cascade.
